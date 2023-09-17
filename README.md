@@ -15,7 +15,7 @@ To get started with this project, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/ImpactConnect/Phase-2-Code-Challenge-Bank-of-Flatiron>
 
 2. Change to the project directory:
 
