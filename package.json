@@ -1,6 +1,6 @@
 {
   "name": "code-2",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "homepage": "https://impactconnet.github.io/Phase-2-Code-Challenge-Bank-of-Flatiron",
   "type": "module",
