@@ -17,6 +17,8 @@ To get started with this project, follow these steps:
    ```bash
    git clone <https://github.com/ImpactConnect/Phase-2-Code-Challenge-Bank-of-Flatiron>
 
+   ```
+
 2. Change to the project directory:
 
 cd bank-transactions-app
@@ -30,6 +32,7 @@ npm install
 npm start
 
 5. Open your web browser and navigate to http://localhost:3000/transactions to view the application.
+   Visit this link for the Project Url: http://codechallenge2.42web.io/
 
 ## Usage
 
